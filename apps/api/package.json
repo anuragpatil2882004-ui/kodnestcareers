@@ -1,0 +1,13 @@
+{
+  "name": "@kodnestcareers/api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "nest build",
+    "dev": "nest start --watch",
+    "start": "nest start",
+    "start:prod": "node dist/main"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
