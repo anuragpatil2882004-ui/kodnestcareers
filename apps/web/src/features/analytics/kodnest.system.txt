@@ -1,0 +1,60 @@
+/* 
+  KodNest Premium Build System — Design System Foundations
+
+  PURPOSE:
+  Establish a refined, premium SaaS design system for KodNest.
+
+  DESIGN PRINCIPLES:
+    - Calm, Intentional, Coherent, Confident
+    - Restraint over flash: No gradients, no glass, no neons, no animation noise
+    - Consistency and clarity in every visual and interaction decision
+
+  COLOR PALETTE (Max 4 colors):
+    • Background: #F7F6F3 (Off-white)
+    • Primary Text: #111111
+    • Accent (Primary Action): #8B0000 (Deep red)
+    • Support (Success/Warning): Muted green, Muted amber
+    — Palette remains minimal and balanced
+
+  TYPOGRAPHY:
+    - Headings: Large serif, confident, distinct spacing
+    - Body: Sans-serif, 16–18px, generous line height (1.6–1.8), max 720px width
+    - Strict size and family enforcement
+
+  SPACING SYSTEM:
+    - Unified scale only: 8 / 16 / 24 / 40 / 64 px
+    - Whitespace is essential, never arbitrary
+
+  GLOBAL LAYOUT:
+    [Top Bar] → [Context Header] → [Primary Workspace + Secondary Panel] → [Proof Footer]
+
+    • Top Bar:
+      - Left: "KodNest Premium Build System"
+      - Center: Progress indicator (Step X / Y)
+      - Right: Status badge (Not Started / In Progress / Shipped)
+    • Context Header:
+      - Large headline (serif) with supportive subtext
+    • Primary Workspace (70%):
+      - Main interaction. Spacious cards, predictable patterns, no clutter
+    • Secondary Panel (30%):
+      - Step guide, prompt box, calm actionable buttons
+    • Proof Footer:
+      - Checklist: □ UI Built □ Logic Working □ Test Passed □ Deployed
+      - User input required for every proof
+
+  COMPONENTS:
+    - Primary Button: Solid deep red (#8B0000), unified radius, subtle hover
+    - Secondary Button: Outlined, color accent
+    - Inputs: Clean borders, clear focus, never heavy or shadowed
+    - Cards: Gentle border, balanced padding, ZERO drop shadow
+
+  INTERACTIONS:
+    - All transitions: 150–200ms ease-in-out
+    - Zero bounce, zero parallax, nothing noisy
+
+  STATES:
+    - Errors: Calm explanation + solution
+    - Empty: Suggest next step, always inviting
+
+  SYSTEM INTEGRITY:
+    Every visual and behavioral decision is unified, deliberate, and devoid of visual drift. This is not a student project—this system sets the standard for a premium business-to-consumer product.
